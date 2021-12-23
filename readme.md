@@ -20,4 +20,4 @@ When finished with the building, open the `src/main.c` file and simply copy 'n p
 
 Running on the Arduino
 =====
-After you've uploaded your freshly compiled program, the 8 LEDs should light up sequentially (250ms delay) and stay on for half a second. Now the LEDs will be turned of and the program starts counting in `big endian` mode from 0 to 255 until you stop it(From right to left). Have fun!
+After you've uploaded your freshly compiled program, the 8 LEDs should light up sequentially (250ms delay) and stay on for half a second. Now the LEDs will be turned of and the program starts counting in `big endian` mode from 0 to 255 until you stop it (From right to left). Have fun!
