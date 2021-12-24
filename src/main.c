@@ -3,7 +3,7 @@
 
 #define LIGHTUP_DELAY 250
 
-u8 usedPins[7] = { 9, 8, 7, 6, 5, 4, 3, 2 };
+u8 usedPins[8] = { 9, 8, 7, 6, 5, 4, 3, 2 };
 
 void setup() {
 	for (u8 i = 0; i < 8; i++) {
