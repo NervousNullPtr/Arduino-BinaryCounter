@@ -19,7 +19,8 @@ void setup() {
 }
 
 void loop() {
-	for (u8 num = 0; num < 256; num++) { // 8 LEDs => Counting up to 2^8
+	for (u8 num = 0; num < 256; num++) { // 8 LEDs => Counting up to 2⁸ - 1
+										 // 2⁸ different values
 
 		for (u8 j = 0; j < 8; j++) {
 
