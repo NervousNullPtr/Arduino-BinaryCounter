@@ -15,7 +15,7 @@ void setup() {
 	}
 
 	for (u8 i = 0; i < 8; i++)
-	{ digitalWrite(usedPins[i], LOW); } // Turn of every LED
+	{ digitalWrite(usedPins[i], LOW); } // Turn off every LED
 }
 
 void loop() {
